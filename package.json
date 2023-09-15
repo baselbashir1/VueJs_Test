@@ -34,5 +34,8 @@
     "prettier": "^2.4.1",
     "sass": "^1.32.7",
     "sass-loader": "^12.0.0"
+  },
+  "resolutions": {
+    "eslint-loader": "2.1.2"
   }
 }
